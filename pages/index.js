@@ -1,4 +1,8 @@
-import Head from 'next/head'
+import Head from "next/head";
+import Footer from "./components/Footer";
+import NavBar from "./components/NavBar";
+import BgFixed1 from "./components/BgFixed1";
+import BgFixed2 from "./components/BgFixed2";
 
 export default function Home() {
   return (
@@ -9,10 +13,62 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className='text-4xl text-red-600 text-center '>
-        Carpas MM Web Page
+      <NavBar />
+      <div className="text-center ">
+        <img
+          src="/logo-redondo.png"
+          alt="logo carpas mm"
+          className="logo-animation mx-auto px-2 w-full md:w-2/5 h-full md:h-2/5 p-24 md:p-16"
+        />
+        <h1 className="text-3xl font-bold px-6">
+          ¡Bienvenido al sitio web de Carpas MM!
+        </h1>
+        <a href="#carpas">
+          <button className="p-6 border-2 border-black rounded-lg my-16 hover:bg-blue-600 hover:text-white font-extrabold">
+            Nuestras carpas
+          </button>
+        </a>
       </div>
-      
+
+        <BgFixed1 />
+
+
+      <section id="carpas">
+        <div className="p-6 my-24">
+          <h2 className="text-2xl font-bold p-6 md:p-12">NUESTRAS CARPAS</h2>
+
+          <div className="space-y-4 px-2 md:px-24 font-medium">
+            <p>🔹 Carpa para 170 personas: <span className="font-bold">  6m x 20m</span></p>
+            <p>🔸 Carpa para 120 personas: <span className="font-bold">  6m x 14m</span> </p>
+            <p>🔹 Carpa para 100 personas: <span className="font-bold">  6m x 12m</span></p>
+            <p>🔸 Carpa para 70 personas: <span className="font-bold">  6m x 8m</span> </p>
+            <p>🔹 Carpa para 40-50 personas : <span className="font-bold">  6m x 6m</span></p>
+          </div>
+        </div>
+      </section>
+
+      <BgFixed2/>
+
+
+      <section id="servicios">
+        <div className="p-6 my-24">
+          <h2 className="text-2xl font-bold p-6 md:p-12">NUESTRO SERVICIO</h2>
+
+          <div className="space-y-4 px-2 md:px-24 pr-0 md:pr-36">
+            <p>
+              🔹  Podés pedir las carpas abiertas o cerradas, ¡El precio no varía!
+            </p>
+            <p>🔸 Todas las carpas incluyen iluminación</p>
+            <p>
+              🔹 Las carpas son entregadas a tiempo el día del evento y las
+              retiramos al día siguiente, por lo que podés disfrutarlas y
+              aprovecharlas al máximo
+            </p>
+            
+          </div>
+        </div>
+      </section>
+      <Footer/>
     </div>
-  )
+  );
 }
