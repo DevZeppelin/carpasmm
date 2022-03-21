@@ -10,7 +10,7 @@ const Footer = () => {
           <h3 className=" text-gray-200 font-righteous">
             ¡Contactanos a través de nuestras redes!
           </h3>
-          <div className="flex flex-wrap justify-center p-6 md:p-10 md:pr-30 mx-4 gap-4 text-2xl md:text-4xl">
+          <div className="flex flex-wrap justify-center p-6 md:p-10 md:pr-30 mx-4 gap-4 text-4xl md:text-4xl">
             <a
               href="mailto:carpasmm@gmail.com"
               target="_blank"
