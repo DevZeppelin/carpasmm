@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div id="contacto" className="bg-black text-white text-center">
       <div className="p-2 mt-24 md:p-3 space-y-8">
-        <img src="/logo.png" className="w-full md:w-1/2 h-full md:h-1/2 p-0 md:p-2 mt-16 mx-auto animate-pulse" />
+        <img src="/logo.webp" className="w-full md:w-1/2 h-full md:h-1/2 p-0 md:p-2 mt-16 mx-auto animate-pulse" />
         <div className="text-lg md:text-2xl">
           <h3 className=" text-gray-200 font-righteous">
             ¡Contactanos a través de nuestras redes!

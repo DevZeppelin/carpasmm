@@ -16,7 +16,7 @@ export default function Home() {
       <NavBar />
       <div className="text-center ">
         <img
-          src="/logo-redondo.png"
+          src="/logo-redondo.webp"
           alt="logo carpas mm"
           className="logo-animation mx-auto px-2 w-full md:w-2/5 h-full md:h-2/5 p-24 md:p-16"
         />
