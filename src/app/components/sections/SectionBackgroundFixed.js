@@ -8,10 +8,10 @@ const SectionBackgroundFixed = () => {
           <h2 className="text-3xl font-righteous fadeIn text-lowContrast textDark">
             Que tu evento sea único
           </h2>
-          <div className="text-lowContrast space-y-3 text-lg">
+          <div className="text-lowContrast text-lg">
             <i>
-              <p>
-                Nuestro servicio presenta una importante ventaja económica frente a caros salones de fiestas
+              <p className="pb-6">
+                Nuestro servicio presenta una importante ventaja económica frente a caros salones de fiestas.
               </p>
               <p>
                 Además que cualquier espacio verde, remoto o simplemente lindo, podés convertirlo en el lugar perfecto para festejar
