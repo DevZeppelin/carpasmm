@@ -13,7 +13,7 @@ const QuienesSomos = () => {
         <section className="text-lightGray">
           <div className="bg-hero-pages bg-cover text-center py-20 md:py-40">
             <h1 className="text-4xl font-bold text-darkGray uppercase textDark">
-              Acerca de Carpas MM
+              Nosotros
             </h1>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
