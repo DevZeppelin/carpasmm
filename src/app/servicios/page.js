@@ -18,7 +18,7 @@ const Servicios = () => {
         <div>
           <div className="bg-hero-pages bg-cover text-center py-20 md:py-40">
             <h1 className="text-4xl font-bold text-darkGray uppercase textDark">
-              Servicios y Trabajos
+              Servicios
             </h1>
           </div>
           <div>

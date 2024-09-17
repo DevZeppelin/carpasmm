@@ -19,7 +19,7 @@ const MobileNavBar = ({ open }) => {
         </Link>
       
         <Link href="/contacto">
-          <span className="mr-2 mt-5 px-3 hover:border-navbar">Contactanos 📞</span>
+          <span className="mr-2 mt-5 px-3 hover:border-navbar">Contacto 📞</span>
         </Link>
       </div>
     </div>
