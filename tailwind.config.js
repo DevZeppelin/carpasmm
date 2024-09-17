@@ -1,4 +1,5 @@
 /** @type {import('tailwindcss').Config} */
+
 module.exports = {
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
@@ -8,10 +9,23 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        primary: '#F6F2D4',
+        secundary: '#FCF8EC',
+        navbar: '#205E61',
+        gray: '#131f48',
+        lightGray: '#090f22',
+        darkGray: '#456268',
+        lowContrast: '#1A4870',
       },
+      fontFamily: {
+        body: ['Heebo'],
+      },
+      backgroundImage: theme => ({
+        'hero-big': "url('/01.jpeg')",
+        'hero-bigger': "url('/bgImage.jpeg')",
+        'hero-pages': "url('/bgPages.jpeg')"
+      })
     },
-  },
-  plugins: [],
-};
+    plugins: [],
+  }
+}
