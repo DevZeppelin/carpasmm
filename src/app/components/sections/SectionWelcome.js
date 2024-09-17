@@ -9,7 +9,7 @@ const SectionWelcome = () => {
         <div className="flex relative overflow-hidden md:grid md:grid-cols-2 text-lg xs:px-2 sm:px-6 md:px-12 bg-primary">
           <span className="first-block text-center text-lightGray space-y-4 md:space-y-10 p-6 md:p-8 my-auto bg-secundary z-40 opacity-80 md:opacity-95 h-full xs:text-base sm:text-lg">
             <h1 className="font-navbar text-navbar text-xl md:text-3xl mt-1 font-righteous">
-              Convertimos espacios verdes en los más bellos salones de fiesta
+              Convertimos espacios abiertos en los más bellos salones de fiesta
             </h1>
             <div className="h-1 w-64 bg-navbar  mx-auto"></div>
             <p>
