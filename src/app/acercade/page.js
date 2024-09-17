@@ -19,7 +19,7 @@ const QuienesSomos = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="text-center space-y-8 md:space-y-4 p-8 md:p-16">
               <h2 className="text-2xl font-extrabold text-yellow">
-                Somos la solución a los eventos al aire libre
+                Somos la solución para los eventos al aire libre
               </h2>
               <div className="bg-yellow w-32 h-1 mx-auto"></div>
               <p className="font-bold"> Nuestro propósito:</p>

@@ -11,12 +11,12 @@ const SectionGridImages = () => {
               alt="Montaje"
             />
             <IndexGridImageContent 
-              name="Bodegas"
+              name="Bodega"
               src="/grid/bodegas.jpg"
               alt="Bodegas"
             />
             <IndexGridImageContent 
-              name="Casamientos"
+              name="Casamiento"
               src="/grid/casamiento.jpg"
               alt="Casamientos"
             />
@@ -31,7 +31,7 @@ const SectionGridImages = () => {
               alt="eventos"
             />
             <IndexGridImageContent 
-              name="Extensiòn de ambientes"
+              name="Extensión de ambiente"
               src="/grid/extension.jpg"
               alt="extension"
             />
@@ -41,7 +41,7 @@ const SectionGridImages = () => {
               alt="calefactor"
             />
             <IndexGridImageContent 
-              name="Fiestas"
+              name="Fiesta de noche"
               src="/grid/fiesta.jpg"
               alt="fiesta"
             />
@@ -51,12 +51,12 @@ const SectionGridImages = () => {
               alt="montaña2"
             />
             <IndexGridImageContent 
-              name="Cerca de la piscina"
+              name="Verano"
               src="/grid/pool.jpg"
               alt="pool"
             />
             <IndexGridImageContent 
-              name="Donde quieras"
+              name="Campo"
               src="/grid/rio.jpg"
               alt="rio"
             />
@@ -71,7 +71,7 @@ const SectionGridImages = () => {
               alt="stands"
             />
             <IndexGridImageContent 
-              name="Fiesta abierta"
+              name="Fiesta de día"
               src="/grid/fiesta2.jpg"
               alt="fiesta2"
             />
