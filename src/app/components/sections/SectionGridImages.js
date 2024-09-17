@@ -11,37 +11,37 @@ const SectionGridImages = () => {
               alt="Montaje"
             />
             <IndexGridImageContent 
-              name="Bodega"
+              name="Bodegas"
               src="/grid/bodegas.jpg"
               alt="Bodegas"
             />
             <IndexGridImageContent 
-              name="Casamiento"
+              name="Casamientos"
               src="/grid/casamiento.jpg"
               alt="Casamientos"
             />
             <IndexGridImageContent 
-              name="Campo abierto"
+              name="Canchas"
               src="/grid/estadio.jpg"
               alt="estadio"
             />
             <IndexGridImageContent 
-              name="Stand"
+              name="Stands"
               src="/grid/eventos.jpg"
               alt="eventos"
             />
             <IndexGridImageContent 
-              name="Extensión de ambiente"
+              name="Extensiones de ambiente"
               src="/grid/extension.jpg"
               alt="extension"
             />
             <IndexGridImageContent 
-              name="Calefactor en invierno"
+              name="Con calefactores"
               src="/grid/calefactor.jpg"
               alt="calefactor"
             />
             <IndexGridImageContent 
-              name="Fiesta de noche"
+              name="Fiestas en la noche"
               src="/grid/fiesta.jpg"
               alt="fiesta"
             />
@@ -51,17 +51,17 @@ const SectionGridImages = () => {
               alt="montaña2"
             />
             <IndexGridImageContent 
-              name="Verano"
+              name="Cerca de la pile"
               src="/grid/pool.jpg"
               alt="pool"
             />
             <IndexGridImageContent 
-              name="Campo"
+              name="Campos"
               src="/grid/rio.jpg"
               alt="rio"
             />
             <IndexGridImageContent 
-              name="Simple"
+              name="Simples"
               src="/grid/simple.jpg"
               alt="simple"
             />
@@ -71,12 +71,12 @@ const SectionGridImages = () => {
               alt="stands"
             />
             <IndexGridImageContent 
-              name="Fiesta de día"
+              name="Fiestas en el día"
               src="/grid/fiesta2.jpg"
               alt="fiesta2"
             />
             <IndexGridImageContent 
-              name="Montaña"
+              name="Montañas"
               src="/grid/montaña.jpg"
               alt="montaña"
             />

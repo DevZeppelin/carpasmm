@@ -22,11 +22,11 @@ const SectionWelcome = () => {
               Usted disfruta de su evento, ¡nosotros nos encargamos de lo demás!
             </p>
 
-            <Link href="/servicios">
+            
               <button className="btn opacity-100 uppercase mt-6">
-                Nuestros trabajos
+                ¡Recibimos todas las tarjetas!
               </button>
-            </Link>
+            
 
           </span>
 

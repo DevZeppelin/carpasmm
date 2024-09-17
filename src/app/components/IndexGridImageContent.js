@@ -8,7 +8,7 @@ export const IndexGridImageContent = ({ name, src, alt }) => {
     <div className="border-navbar m-2" >
 
       <div className="relative imagen-filtro overflow-hidden h-full" >
-          <div className="indexGridImageText z-10 rounded-b-2xl">
+          <div className="indexGridImageText z-10 rounded-b-2xl pt-1">
             {name}
           </div>
           <Image
