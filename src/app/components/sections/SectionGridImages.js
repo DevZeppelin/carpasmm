@@ -6,37 +6,22 @@ const SectionGridImages = () => {
     <section>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 m-8 md:m-24 text-center">
             <IndexGridImageContent 
-              name="Simple"
+              name="Carpa simple"
               src="/grid/simple.webp"
               alt="Montaje"
             />
             <IndexGridImageContent 
-              name="Espaciosa"
-              src="/grid/grande.webp"
-              alt="Montaje"
-            />
-            <IndexGridImageContent 
-              name="Mixta"
-              src="/grid/mixta.webp"
-              alt="Montaje"
-            />
-            <IndexGridImageContent 
-              name="Montaje"
-              src="/grid/armado.webp"
-              alt="Montaje"
-            />
-            <IndexGridImageContent 
-              name="Bodegas"
+              name="Evento en Bodega"
               src="/grid/bodegas.webp"
               alt="Bodegas"
             />
             <IndexGridImageContent 
-              name="Casamientos"
+              name="Casamiento"
               src="/grid/casamiento.webp"
               alt="Casamientos"
             />
             <IndexGridImageContent 
-              name="Canchas"
+              name="En espacio amplio"
               src="/grid/estadio.webp"
               alt="estadio"
             />
@@ -46,12 +31,23 @@ const SectionGridImages = () => {
               alt="eventos"
             />
             <IndexGridImageContent 
+              name="Carpa espaciosa"
+              src="/grid/grande.webp"
+              alt="Montaje"
+            />
+            <IndexGridImageContent 
+              name="Evento simple"
+              src="/grid/mixta.webp"
+              alt="mixta"
+            />
+            
+            <IndexGridImageContent 
               name="Extensiones de ambiente"
               src="/grid/extension.webp"
               alt="extension"
             />
             <IndexGridImageContent 
-              name="Con calefactores"
+              name="Calefactor para el invierno"
               src="/grid/calefactor.webp"
               alt="calefactor"
             />
@@ -71,17 +67,17 @@ const SectionGridImages = () => {
               alt="pool"
             />
             <IndexGridImageContent 
-              name="Campos"
+              name="En el campo"
               src="/grid/rio.webp"
               alt="rio"
             />
             <IndexGridImageContent 
-              name="Parques"
+              name="Con parque de juegos"
               src="/grid/parque_juegos.webp"
               alt="simple"
             />
             <IndexGridImageContent 
-              name="Ferias"
+              name="Carpa en feria"
               src="/grid/stands.webp"
               alt="stands"
             />
@@ -91,9 +87,14 @@ const SectionGridImages = () => {
               alt="fiesta2"
             />
             <IndexGridImageContent 
-              name="Montañas"
+              name="En la montaña"
               src="/grid/montaña.webp"
               alt="montaña"
+            />
+            <IndexGridImageContent 
+              name="Montaje"
+              src="/grid/armado.webp"
+              alt="Montaje"
             />
             
           
