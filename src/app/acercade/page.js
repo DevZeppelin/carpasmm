@@ -33,7 +33,7 @@ const QuienesSomos = () => {
               <Image
                 width={400}
                 height={300}
-                src="/logo.png"
+                src="/logo.webp"
                 alt="carpas mm alquiler carpas gazebos infraestructura "
 
               />

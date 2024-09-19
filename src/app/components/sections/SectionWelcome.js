@@ -24,7 +24,7 @@ const SectionWelcome = () => {
 
             
               <button className="btn opacity-100 uppercase mt-6">
-                ¡Recibimos todas las tarjetas!
+                Recibimos todos los medios de pago
               </button>
             
 
@@ -32,7 +32,7 @@ const SectionWelcome = () => {
 
           <div className="flex flex-wrap m-0 p-0 justify-center align-middle absolute bottom-0 left-0 h-full md:relative md:h-full md:max-w-auto">
             <img
-              src="/01.jpeg"
+              src="/01.webp"
               alt="carpas mm evento al aire libre"
 
             />

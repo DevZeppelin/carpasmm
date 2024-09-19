@@ -21,9 +21,9 @@ module.exports = {
         body: ['Heebo'],
       },
       backgroundImage: theme => ({
-        'hero-big': "url('/01.jpeg')",
-        'hero-bigger': "url('/bgImage.jpeg')",
-        'hero-pages': "url('/bgPages.jpeg')"
+        'hero-big': "url('/01.webp')",
+        'hero-bigger': "url('/bgImage.webp')",
+        'hero-pages': "url('/bgPages.webp')"
       })
     },
     plugins: [],

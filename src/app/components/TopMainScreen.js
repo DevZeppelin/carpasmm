@@ -11,7 +11,7 @@ const TopMainScreen = () => {
       <div className="flex my-8 p-0 md:p-0 px-12 md:px-24 text-navbar bg-secundary justify-center md:justify-between">
         <Link href="/">
           <img
-            src="logo.png"
+            src="logo.webp"
             alt="carpas mm alquiler lonas gazebos mendoza"
             width="400"
             height="400"
