@@ -2,7 +2,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "Carpas MM",
-  description: "Alquiler de carpas y gazebos MM para eventops al aire libre",
+  description: "Alquiler de carpas para eventos al aire libre en Mendoza",
 };
 
 export default function RootLayout({ children }) {

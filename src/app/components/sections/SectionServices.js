@@ -15,7 +15,7 @@ const SectionServices = () => {
           <div className="space-y-4 pb-6">
             <AiFillSafetyCertificate className="text-6xl text-navbar mx-auto" />
             <h2 className="uppercase text-navbar font-bold">Calidad</h2>
-            <p>Ofrecemos carpas y gazebos de alta calidad, diseñados para resistir cualquier clima y adaptarse a las necesidades de tu evento. Cada detalle cuenta para crear experiencias excepcionales.</p>
+            <p>Ofrecemos carpas de alta calidad, diseñados para resistir cualquier clima y adaptarse a las necesidades de tu evento. Cada detalle cuenta para crear experiencias excepcionales.</p>
           </div>
           <div className="space-y-4 pb-6">
             <MdSafetyDivider className="text-6xl text-navbar mx-auto" />

@@ -12,7 +12,7 @@ const TopMainScreen = () => {
         <Link href="/">
           <img
             src="logo.webp"
-            alt="carpas mm alquiler lonas gazebos mendoza"
+            alt="carpas mm alquiler lonas toldos mendoza"
             width="400"
             height="400"
             className="animate-logo"

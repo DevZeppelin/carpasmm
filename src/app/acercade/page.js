@@ -24,7 +24,7 @@ const QuienesSomos = () => {
               <div className="bg-yellow w-32 h-1 mx-auto"></div>
               <p className="font-bold"> Nuestro propósito:</p>
               <p>
-                Crear experiencias únicas y memorables proporcionando soluciones personalizadas en alquiler de carpas y gazebos para eventos al aire libre.
+                Crear experiencias únicas y memorables proporcionando soluciones personalizadas en alquiler de carpas para eventos al aire libre.
               </p>
 
 
@@ -34,7 +34,7 @@ const QuienesSomos = () => {
                 width={400}
                 height={300}
                 src="/logo.webp"
-                alt="carpas mm alquiler carpas gazebos infraestructura "
+                alt="carpas mm alquiler carpas  infraestructura "
 
               />
             </div>
@@ -45,7 +45,7 @@ const QuienesSomos = () => {
             <FaEye className="mx-auto text-4xl text-yellow" />
             <h2 className="text-2xl text-yellow">Visión</h2>
             <p>
-              Ofrecer un servicio integral que combine carpas y gazebos de calidad con una instalación eficiente, iluminación profesional y un traslado sin complicaciones, asegurando la satisfacción y tranquilidad de nuestros clientes en cada evento.
+              Ofrecer un servicio integral que combine carpas de calidad con una instalación eficiente, iluminación profesional y un traslado sin complicaciones, asegurando la satisfacción y tranquilidad de nuestros clientes en cada evento.
             </p>
           </div>
           <div className="space-y-4">

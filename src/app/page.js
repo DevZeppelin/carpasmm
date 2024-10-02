@@ -18,11 +18,11 @@ export default function Home() {
         <meta charSet="UTF-8" />
         <meta
           name="description"
-          content="carpas mm,alquiler,carpas,gazebos,lonas,eventos,casamientos,fiesta,aire libre, infraestructura eventos, mendoza"
+          content="carpas mm,alquiler,carpas,lonas,eventos,casamientos,fiesta,aire libre, infraestructura eventos, mendoza"
         />
         <meta
           name="keywords"
-          content="carpas mm,alquiler,carpas,gazebos,lonas,eventos,casamientos,fiesta,aire libre, infraestructura eventos, mendoza"
+          content="carpas mm,alquiler,carpas,lonas,eventos,casamientos,fiesta,aire libre, infraestructura eventos, mendoza"
         />
         <meta name="author" content="Gino Pietrobon" />
       </Head>
